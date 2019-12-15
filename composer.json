@@ -1,4 +1,7 @@
 {
+    "name" : "reachusolutions/loadsmile-techtask",
+    "description" : "Ari tech task for LoadSmile",
+    "keywords" : ["symfony", "micro-framework", "loadsmile", "techtask"],
     "type": "project",
     "license": "proprietary",
     "require": {
